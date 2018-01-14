@@ -1,0 +1,5 @@
+cron:
+- description: formtoparserator daily
+  url: /run
+  schedule: every 1 mins
+  target: cron
