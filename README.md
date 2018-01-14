@@ -243,7 +243,7 @@ Most of the pieces here cost money and doing some quick math to make sure you ar
 
 Parse: Depending on how you are running Parse, there may be costs to making these requests.
 
-Typeform.com: Depending on the plan you purchase, there are various costs.  Refer to their website for details.
+Typeform.com: Depending on the plan you purchase, there are various costs.  Refer to their website for details.  This purposely does not run with a Cloud Function using callbacks because that would require the PRO+ plan at this time which may be too expensive for some folks.
 
 Google Cloud Platform: The App Engine Standard Environment has three costs associated with it for this project.
 
