@@ -1,8 +1,8 @@
-Flask==0.12.2
-google-api-python-client==1.6.4
+Flask==1.0.2
+google-api-python-client==1.7.7
 google-auth-httplib2==0.0.3
-google-cloud==0.30.0
-PyYAML==3.12
-requests==2.18.4
+google-cloud==0.34.0
+PyYAML==3.13
+requests==2.21.0
 requests_toolbelt==0.8.0
 
